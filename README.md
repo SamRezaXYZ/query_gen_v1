@@ -26,7 +26,7 @@ QueryIDExtractor is a Python script that uses the Telegram API to manage Telegra
 3. **Run the Script**:
    - Navigate to the script's directory and run:
      ```bash
-     python Query.py
+     python query.py
      ```
 
 ### Mac
@@ -43,7 +43,7 @@ QueryIDExtractor is a Python script that uses the Telegram API to manage Telegra
 3. **Run the Script**:
    - Navigate to the script's directory and run:
      ```bash
-     python Query.py
+     python query.py
      ```
 
 ### Linux
@@ -64,7 +64,7 @@ QueryIDExtractor is a Python script that uses the Telegram API to manage Telegra
 3. **Run the Script**:
    - Navigate to the script's directory and run:
      ```bash
-     python3 Query.py
+     python3 query.py
      ```
 
 ### Termux
@@ -88,7 +88,7 @@ QueryIDExtractor is a Python script that uses the Telegram API to manage Telegra
 4. **Run the Script**:
    - Navigate to the script's directory and run:
      ```bash
-     python Query.py
+     python query.py
      ```
 
 ## Configuration
